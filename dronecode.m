@@ -1,0 +1,17 @@
+ m=0.9;
+g=9.81;
+pi=3.141592654;
+Fmot=m*g;
+theta=0;
+pho=1.225;
+normangle=1/(2*pi);
+a0=1*pi/180;
+J=0.05;
+Sref=0.3;
+Cx=0.2;
+Cl=0.5;
+Bruitventx=2;
+Bruitventy=0.05;
+Consigneangle=pi/2;
+ConsigneVy=0;
+Freqfiltremoteur=10;
