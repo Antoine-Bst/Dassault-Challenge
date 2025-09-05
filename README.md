@@ -6,5 +6,5 @@ Extract the rar file to get the parts and open the assembly using solidworks 202
 ****************
 Image: Automated Vertical Take-off
 <p align="center">
-  <img src="illustrationtailsitter.jpeg" alt="Takeoff" width="70%">
+  <img src="illustrationtailsitter.jpeg" alt="Takeoff" width="100%">
 </p>
